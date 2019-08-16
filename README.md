@@ -4,4 +4,4 @@ My implementation of mini-batch stochastic gradient descent, tested out on a sim
 ## Description:
 I used Pytorch as well as numpy and pandas to solve a basic linear regression problem using my own implementation of mini-batch stochastic gradient descent, as defined by Google [here](https://developers.google.com/machine-learning/crash-course/reducing-loss/stochastic-gradient-descent).
 
-The dataset was found on Kaggle, and can be accessed at this [link](https://www.kaggle.com/venjktry/simple-linear-regression).
+The dataset was found on Kaggle, and can be accessed at this [link](https://www.kaggle.com/venjktry/simple-linear-regression). The Jupyter Notebook was created and edited using Google's Colaboratory platform.
